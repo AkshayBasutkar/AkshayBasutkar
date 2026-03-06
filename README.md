@@ -143,7 +143,7 @@ I'm an **AI/ML Engineer** based in Bengaluru, passionate about turning ideas int
 [![Akshay's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkshayBasutkar&theme=tokyonight)](https://github.com/AkshayBasutkar)
 
 [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkshayBasutkar&theme=tokyonight)](https://github.com/AkshayBasutkar)
-[![Most Committed Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkshayBasutkar&theme=tokyonight)](https://github.com/AkshayBasutkar)
+[![Most Committed Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkshayBasutkar&theme=aura)](https://github.com/AkshayBasutkar)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AkshayBasutkar&theme=tokyonight&hide_border=true)
 
